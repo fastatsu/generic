@@ -1,0 +1,17 @@
+{
+    "name": "fastatsu/generic",
+    "description": "Generics definitions",
+    "require": {
+        "wtsergo/amphp-injector": "dev-master"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "Fastatsu\\Generic\\": "src/"
+        }
+    }
+}
