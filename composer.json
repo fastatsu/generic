@@ -2,7 +2,7 @@
     "name": "fastatsu/generic",
     "description": "Generics definitions",
     "require": {
-        "wtsergo/amphp-injector": "dev-master"
+        "wtsergo/amphp-injector": "dev-dev@dev"
     },
     "license": [
         "MIT"
